@@ -1,5 +1,11 @@
 # API Documentation
 
+## Hosted Link
+
+```
+https://bitfest.ahsandevhub.com/
+```
+
 ## Ingredients API
 
 ### 1. Get All Ingredients
